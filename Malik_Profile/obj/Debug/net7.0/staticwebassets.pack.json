@@ -1,0 +1,653 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\obj\\Debug\\net7.0\\build-gz\\7GtaSRp+.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\css\\johndoe.css",
+      "PackagePath": "staticwebassets\\assets\\css\\johndoe.css"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\css\\malik.css",
+      "PackagePath": "staticwebassets\\assets\\css\\malik.css"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\Banner.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Banner.png"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\Cognizant_logo.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Cognizant_logo.png"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\Prolifics_logo.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Prolifics_logo.png"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\Prolifics_logo.webp",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Prolifics_logo.webp"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\advertising-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\advertising-1.jpg"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\advertising-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\advertising-2.jpg"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\advertising-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\advertising-3.jpg"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\advertising-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\advertising-4.jpg"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\avatar.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\avatar.png"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\avatar2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\avatar2.png"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\avatarold.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\avatarold.jpg"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\banner_1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner_1.png"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\blog1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog1.jpg"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\blog2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog2.jpg"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\blog3.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog3.jpg"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\branding-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\branding-1.jpg"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\branding-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\branding-2.jpg"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\branding-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\branding-3.jpg"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\branding-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\branding-4.jpg"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\branding-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\branding-5.jpg"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\header.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\header.jpg"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\headerold.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\headerold.jpg"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\web-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\web-1.jpg"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\web-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\web-2.jpg"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\web-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\web-3.jpg"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\imgs\\web-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\web-4.jpg"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\js\\johndoe.js",
+      "PackagePath": "staticwebassets\\assets\\js\\johndoe.js"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\abstracts\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\abstracts\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\abstracts\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\abstracts\\_variables.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\abstracts\\mixins\\_shadow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\abstracts\\mixins\\_shadow.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\abstracts\\mixins\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\abstracts\\mixins\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\base\\_typography.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\components\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\components\\_button.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_button.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\components\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_card.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\components\\_code.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_code.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\components\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_dropdowns.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\components\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_nav.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\components\\_navbars.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_navbars.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\components\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\johndoe.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\johndoe.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_footer.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_header.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\layout\\_sections.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_sections.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_alert.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_badge.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_button-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_card.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_close.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_close.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_code.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_code.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_forms.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_functions.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_grid.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_images.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_media.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_media.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_modal.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_nav.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_popover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_popover.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_print.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_print.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_progress.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_root.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_root.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_spinners.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_tables.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_toasts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_type.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_variables.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\vendors\\bootstrap\\bootstrap.affix.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap\\bootstrap.affix.js"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\vendors\\bootstrap\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\vendors\\bootstrap\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\vendors\\bootstrap\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\vendors\\bootstrap\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\vendors\\bootstrap\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\vendors\\bootstrap\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\vendors\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\vendors\\bootstrap\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\vendors\\isotope\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\isotope\\isotope.pkgd.js"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\vendors\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\vendors\\jquery\\jquery-3.4.1.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery\\jquery-3.4.1.js"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\vendors\\jquery\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\vendors\\jquery\\jquery-3.4.1.min.map",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery\\jquery-3.4.1.min.map"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\vendors\\jquery\\jquery-3.4.1.slim.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery\\jquery-3.4.1.slim.js"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\vendors\\jquery\\jquery-3.4.1.slim.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery\\jquery-3.4.1.slim.min.js"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\vendors\\jquery\\jquery-3.4.1.slim.min.map",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery\\jquery-3.4.1.slim.min.map"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\vendors\\themify-icons\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\themify-icons\\css\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\vendors\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\vendors\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\vendors\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\assets\\vendors\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\components.html",
+      "PackagePath": "staticwebassets\\components.html"
+    },
+    {
+      "Id": "D:\\My_Repo\\Malik_Profile\\Malik_Profile\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Malik_Profile.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Malik_Profile.props",
+      "PackagePath": "build\\Malik_Profile.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Malik_Profile.props",
+      "PackagePath": "buildMultiTargeting\\Malik_Profile.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Malik_Profile.props",
+      "PackagePath": "buildTransitive\\Malik_Profile.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
